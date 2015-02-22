@@ -1,3 +1,9 @@
+/*
+ * Transportadora.cpp
+ *
+ *  Created on: 22/02/2015
+ *      Author: Mizael Martinez
+ */
 #include<iostream>
 #include"rapidjson/document.h"
 #include"arduino.h"
